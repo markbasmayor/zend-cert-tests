@@ -1,5 +1,5 @@
 <?php
-namespace Spl;
+namespace spl;
 
 class Cat
 {
