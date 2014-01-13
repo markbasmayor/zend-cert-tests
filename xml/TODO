@@ -1,0 +1,20 @@
+For all the challenges, use namespaces.
+
+XML Parser
+==========
+* create the code that will parse the contents of sample.xml
+* the script should output the unique list of tags used in the xml file
+* the script should output all text content as a flat string
+
+SimpleXML
+=========
+* create a script that will parse the contents of sample.xml and echo out the tags and text content in the following format:
+    tagName::content
+* instantiate SimpleXML using a string instead of a file
+* echo the entire XML string
+* add a new movie "Batman"
+* save the file
+
+DOM Document
+============
+
