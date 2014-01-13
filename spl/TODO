@@ -10,7 +10,7 @@ ArrayObject
 
 Iterator
 ========
-* create a class that implements Iterator
+* create a class for books and implement Iterator
 
 IteratorAggregate
 =================
