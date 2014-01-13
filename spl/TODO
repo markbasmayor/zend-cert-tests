@@ -1,0 +1,28 @@
+For all the challenges, use namespaces.
+
+ArrayObject
+===========
+* create a new ArrayObject instance and store 5 numbers to it
+* store five more numbers as instance variables
+* ArrayObject instance should be able to access all 10 numbers
+* echo the total number of elements
+* echo all the numbers in a sorted fashion
+
+Iterator
+========
+* create a class that implements Iterator
+
+IteratorAggregate
+=================
+* create a class that implements IteratorAggregate
+
+DirectoryIterator
+=================
+* using the DirectoryIterator, list all files under ./sample
+
+Countable
+=========
+* create a stack class and implement the Countable inteface
+
+
+
