@@ -5,6 +5,7 @@ XML Parser
 * create the code that will parse the contents of sample.xml
 * the script should output the unique list of tags used in the xml file
 * the script should output all text content as a flat string
+* implement the same requirements using the same method
 
 SimpleXML
 =========
@@ -18,3 +19,7 @@ SimpleXML
 DOM Document
 ============
 
+IMPORT
+======
+* import the DomDocument object into SimpleXML
+* import the SimpleXML object into DomDocument
