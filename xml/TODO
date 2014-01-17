@@ -9,17 +9,17 @@ XML Parser
 
 SimpleXML
 =========
-* create a script that will parse the contents of sample.xml and echo out the tags and text content in the following format:
-    tagName::content
-* instantiate SimpleXML using a string instead of a file
-* echo the entire XML string
-* add a new movie "Batman"
-* save the file
+* instantiate SimpleXML using a string
+* convert the entire XML to string and echo contents
+* instantiate SimpleXML using a file
+* add a new movie to the xml (Batman)
+* add a new attribute (imdb)
+
+SimpleXML and DomDocument
+=========================
+* import the DomDocument object into SimpleXML
+* import the SimpleXML object into DomDocument
 
 DOM Document
 ============
 
-IMPORT
-======
-* import the DomDocument object into SimpleXML
-* import the SimpleXML object into DomDocument
