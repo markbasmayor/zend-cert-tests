@@ -20,9 +20,4 @@ DirectoryIterator
 =================
 * using the DirectoryIterator, list all files under ./sample
 
-Countable
-=========
-* create a stack class and implement the Countable inteface
-
-
 
